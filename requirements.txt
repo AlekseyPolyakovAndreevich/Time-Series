@@ -1,0 +1,10 @@
+numpy
+keras==3.0.0
+scikit-learn
+optuna
+statsmodels
+plotly
+statsmodels
+matplotlib
+pandas
+tensorflow==2.16.1
